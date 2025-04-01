@@ -1,0 +1,8 @@
+click_pkg.egg-info/
+venv/
+dist/
+*.pyc
+__pycache__/
+test.py
+.idea/
+*.db
